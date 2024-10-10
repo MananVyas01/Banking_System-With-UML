@@ -19,7 +19,7 @@ To run this project, you need to have a C++ compiler installed on your system. T
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/MananVyas01/Banking_System.git
+    git clone https://github.com/MananVyas01/Banking_System-With-UML.git
     cd Banking_System
     ```
 
