@@ -1,0 +1,24 @@
+12345678
+Manan
+0
+Transactions:
+END
+12345678
+Manan
+12
+Transactions:
+Deposited: 12.000000
+END
+12345678
+Manan
+12
+Transactions:
+Deposited: 12.000000
+END
+12345678
+Manan
+0
+Transactions:
+Deposited: 12.000000
+Withdrew: 12.000000
+END
