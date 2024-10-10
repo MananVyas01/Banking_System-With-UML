@@ -19,7 +19,7 @@ To run this project, you need to have a C++ compiler installed on your system. T
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/your_username/Banking_System.git
+    git clone https://github.com/MananVyas01/Banking_System.git
     cd Banking_System
     ```
 
@@ -62,5 +62,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to contact me at [your_email@example.com].
+For any questions or suggestions, feel free to contact me at [vyasmanan2511@gmail.com].
 
